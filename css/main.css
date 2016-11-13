@@ -1,0 +1,64 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #007bbd;
+}
+
+.head{
+	background-color: #0066a1;
+	height: 40px;
+	text-align: center;
+}
+.logo{
+	margin-top: 5px;
+}
+.nombre{
+	color: white;
+	font-family: Arial;
+	font-size: 20px;
+	margin: 15px 0 15px 30px;
+	display: inline;
+}
+.privado{
+	display: inline;
+	color: white;
+}
+.privado i{
+	margin: 0 10px;
+}
+.titulo{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.anadir{
+	font-size: 20px;
+	margin-left: 25px;
+	width: 300px;
+}
+.formulario {
+    width: 17em;
+    height: auto;
+    margin: 0.6em 0.5em;
+    padding: 0.3em;
+    background-color: #E2E4E6;
+    border-radius: 5px;
+}
+.boton {
+    display: block;
+    padding: 0.5em 3em;
+    margin: 0.3em 0.7em;
+    background-color: #5BAE45;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+.textarea{
+    width: 92%;
+    margin: 0.3em 0.7em;
+    padding: 0.3em;
+    border-radius: 5px;
+    width: 300px;
+}
