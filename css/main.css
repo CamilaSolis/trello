@@ -44,6 +44,7 @@ body{
     padding: 0.3em;
     background-color: #E2E4E6;
     border-radius: 5px;
+	margin-left: 25px;
 }
 .boton {
     display: block;
@@ -53,6 +54,7 @@ body{
     border: none;
     color: white;
     border-radius: 5px;
+	margin-left: 25px;
 }
 
 .textarea{
@@ -61,4 +63,5 @@ body{
     padding: 0.3em;
     border-radius: 5px;
     width: 300px;
+	margin-left: 25px;
 }
