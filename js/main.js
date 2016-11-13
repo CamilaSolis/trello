@@ -1,8 +1,8 @@
 function agregaLista(){
   var contenedorTarjetas = document.getElementById('contenedor');
   var formulario = document.createElement('form');
-  var tarjeta = document.createElement('div');
 
+  formulario.classList.add('formulario');
 
   var Texto = document.createElement('input');
   Texto.setAttribute('type','text');

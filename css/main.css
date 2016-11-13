@@ -38,12 +38,13 @@ body{
 	width: 300px;
 }
 .formulario {
-    width: 17em;
+    width: 300px;
     height: auto;
     margin: 0.6em 0.5em;
     padding: 0.3em;
     background-color: #E2E4E6;
     border-radius: 5px;
+    margin-left: 25px;
 }
 .boton {
     display: block;
@@ -60,5 +61,4 @@ body{
     margin: 0.3em 0.7em;
     padding: 0.3em;
     border-radius: 5px;
-    width: 300px;
 }
